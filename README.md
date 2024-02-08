@@ -1,6 +1,36 @@
-# ProductionEcommerceApp
+# ⭕ProductionEcommerceApp💻
 
-MERN E-Commerce  with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features 
+
+# ✨Installation:-
+
+💻 redux toolkit with react app - 
+
+       npx create-react-app ecommerceapp -template redux 
+       npm install  tailwindcss
+       npx tailwindcss init
+
+`tailwind.config.js`---->
+
+       /** @type {import('tailwindcss').Config} */
+          module.exports = {
+            content: ["./src/**/*.{html,js}"],
+            theme: {
+              extend: {},
+            },
+            plugins: [],
+          }
+
+
+    index.css---->      
+          @tailwind base;
+          @tailwind components;
+          @tailwind utilities;
+
+
+
+# 💫  MERN E-Commerce  with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features .
+
+
 Multer Middleware (for file upload)
 Mongoose populate 
 Passport JS Authentication 
