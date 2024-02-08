@@ -1,7 +1,12 @@
 # ProductionEcommerceApp
 
 MERN E-Commerce  with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features 
-
+Multer Middleware (for file upload)
+Mongoose populate 
+Passport JS Authentication 
+JWT Auth is from 
+Vercel deployment  
+React Router 
 
 # 🔥 Features :
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
